@@ -3,6 +3,6 @@
 - 🌱 Atualmente, estou aprendendo HTML, CSS, PHP, JavaScript e MySQL.
 - 💞️ Estou buscando colaborar em projetos de sites e aplicações web.
 - 📫 Você pode me contatar pelo eduardosfrigo@gmail.com.
-- 😄 Pronomes: ele/dele.
+- 😄 Pronomes: if/else.
 - ⚡ Curiosidade: sou músico, e já fiz parte de algumas bandas como guitarrista e vocalista.
 

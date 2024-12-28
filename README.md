@@ -1,5 +1,5 @@
 ## Bem Vindo!
-<br>👋 Olá, sou @EduardoFrigo<br>👀 Estou interessado em desenvolvimento web e tecnologias front-end e back-end.<br>🌱 Atualmente, estou aprendendo HTML, CSS, PHP, JavaScript e MySQL.<br>💞️ Estou buscando colaborar em projetos de sites e aplicações web.<br>📫 Você pode me contatar pelo eduardosfrigo@gmail.com.<br>😄 Pronomes: if/else.<br>⚡ Curiosidade: sou músico, e já fiz parte de algumas bandas como guitarrista e vocalista.
+👋 Olá, sou @EduardoFrigo<br>👀 Estou interessado em desenvolvimento web e tecnologias front-end e back-end.<br>🌱 Atualmente, estou aprendendo HTML, CSS, PHP, JavaScript e MySQL.<br>💞️ Estou buscando colaborar em projetos de sites e aplicações web.<br>📫 Você pode me contatar pelo eduardosfrigo@gmail.com.<br>😄 Pronomes: if/else.<br>⚡ Curiosidade: sou músico, e já fiz parte de algumas bandas como guitarrista e vocalista.
 
 
 ## 🌐 Socials:

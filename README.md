@@ -1,5 +1,5 @@
 ## Bem Vindo!
-👋 Olá, sou @EduardoFrigo<br>👀 Estou interessado em desenvolvimento web e tecnologias front-end e back-end.<br>🌱 Atualmente, estou aprendendo HTML, CSS, PHP, JavaScript e MySQL.<br>💞️ Estou buscando colaborar em projetos de sites e aplicações web.<br>📫 Você pode me contatar pelo eduardosfrigo@gmail.com.<br>😄 Pronomes: if/else.<br>⚡ Você pode conhecer um pouquinho do que faço em meu portfólio: [Vercel](https://eduardofrigo.vercel.app)
+👋 Olá, sou @EduardoFrigo<br>👀 Estou interessado em desenvolvimento web e tecnologias front-end e back-end.<br>🌱 Atualmente, desenvolvo em HTML, CSS, PHP, JavaScript e MySQL.<br>💞️ Estou buscando colaborar em projetos de sites e aplicações web.<br>📫 Você pode me contatar pelo eduardosfrigo@gmail.com.<br>😄 Pronomes: if/else.<br>⚡ Você pode conhecer um pouquinho do que faço em meu portfólio: [Vercel](https://eduardofrigo.vercel.app)
 
 
 ## 🌐 Socials:
